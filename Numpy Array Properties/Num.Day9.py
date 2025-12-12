@@ -1,0 +1,4 @@
+#full shape and value declare.
+import numpy as np
+filled_array = np.full((2,2) ,7)
+print(filled_array)
